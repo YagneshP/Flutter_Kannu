@@ -1,16 +1,23 @@
-# flutter_speak_to_text_api_proj
+# Flutter_Kanu
 
-A new Flutter project.
+The eye….We never really appreciate this amazing part of us that really makes this life a beautiful one.
 
-## Getting Started
+## But what about those who just weren’t lucky enough to take in this beauty?
 
-This project is a starting point for a Flutter application.
+The tech world is advancing at a very rapid pace  and so are all the tech around us.
+Today is a time when one can’t even imagine life without a smartphone….
+But we forget that there are some who use touch to complete every task in their lives but cannot use a touch screen phone all because they are differently abled.
+Well that had to change. 
 
-A few resources to get you started if this is your first Flutter project:
+## The Idea and Mission
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+💎 We at Flu_Kannu have put all our efforts into making the first level of a voice recognition based app to help the visually challenged use voice command to perform all the functions of a smartphone, from sending emails to searching the web.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Just like how one doesn’t judge a book by its cover, our prototype is just a glimpse of an app that could one day become the life changer for many, as this piece of code holds the potential to break down all those barriers which leave owning a smartphone still a dream for many  from the visually challenged community.
+
+## Future Enhancements
+As of now, the app is still a work in progress and has a long way to go into becoming that life changer we visualize it to be, but go we will until the day we make this dream come true for our differently abled friends. 
+
+
+
+
